@@ -109,9 +109,7 @@ Why: many users access browser games from mobile devices, so a basic mobile smok
 Paste your real output here after running `pytest`, for example:
 
 ```text
-8 passed in 12.34s
-```
-
+9 passed in 9.07s
 ## Notes
 
 The tests intentionally use stable text-based checks instead of fragile CSS selectors. This makes the suite easier to understand and less likely to fail because of small layout changes.
