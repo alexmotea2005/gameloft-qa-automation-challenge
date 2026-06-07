@@ -1,0 +1,3 @@
+BASE_URL = "https://play.ludigames.com"
+DEFAULT_TIMEOUT_MS = 15000
+MAX_RESPONSE_TIME_SECONDS = 3.0
